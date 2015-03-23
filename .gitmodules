@@ -1,0 +1,3 @@
+[submodule "klient/socket.io-client"]
+	path = klient/socket.io-client
+	url = git@github.com:Automattic/socket.io-client
